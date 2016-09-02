@@ -1,5 +1,5 @@
 ##Koodauskoe.py
-##Tekija: Toni Martikainen
+
 
 
 
